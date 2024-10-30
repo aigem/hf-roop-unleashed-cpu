@@ -1,0 +1,15 @@
+numpy==1.26.4
+gradio==4.44.0
+fastapi<0.113.0
+opencv-python-headless==4.9.0.80
+onnx==1.16.0
+insightface==0.7.3
+albucore==0.0.16
+psutil==5.9.6
+torch==2.1.2
+torchvision==0.16.2
+onnxruntime==1.17.1
+tqdm==4.66.4
+ftfy
+regex
+pyvirtualcam
