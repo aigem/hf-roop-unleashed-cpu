@@ -32,5 +32,5 @@ RUN git clone ${GIT_REPO} ${HOMEDIR}/${PROJECT_NAME} \
 # 暴露 Remix 端口
 EXPOSE ${PORT}
 
-# 在启动时设置 API_KEY 环境变量
+# 启动
 ENTRYPOINT python ${HOMEDIR}/app/run.py
