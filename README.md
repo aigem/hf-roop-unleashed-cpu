@@ -1,6 +1,9 @@
 ---
 一键搭建:
 ---
+---
+免费:
+---
 
 
 # Huggingface中部署 roop-unleashed [使用CPU][免费]
