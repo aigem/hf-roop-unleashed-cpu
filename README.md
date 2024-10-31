@@ -1,7 +1,9 @@
-# hf-roop-unleashed-cpu
 ---
-title: Huggingface中部署 roop-unleashed [使用CPU]
+title: 
 ---
+
+
+# Huggingface中部署 roop-unleashed [使用CPU][免费]
 
 # hf-nocodb
 ### 在HuggingFace上部署 roop-unleashed，老牌换脸应用。
