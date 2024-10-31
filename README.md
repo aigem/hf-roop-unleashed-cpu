@@ -27,3 +27,5 @@ Extras Tab for cutting videos etc.
 Settings - storing configuration for next session
 Theme Support
 
+[使用这个roop-unleashed版本](https://github.com/C0untFloyd/roop-unleashed/)
+
