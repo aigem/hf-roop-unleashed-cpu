@@ -1,12 +1,6 @@
 ---
 一键搭建
 ---
-免费
----
-换脸
----
-roop-unleashed
----
 
 
 # Huggingface中部署 roop-unleashed [使用CPU][免费]
