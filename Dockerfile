@@ -33,4 +33,4 @@ RUN git clone ${GIT_REPO} ${HOMEDIR}/${PROJECT_NAME} \
 EXPOSE ${PORT}
 
 # 在启动时设置 API_KEY 环境变量
-ENTRYPOINT ${HOMEDIR}/${PROJECT_NAME}/src/startup.sh
+ENTRYPOINT python ${HOMEDIR}/app/run.py
